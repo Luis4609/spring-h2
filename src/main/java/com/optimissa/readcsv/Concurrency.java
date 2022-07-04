@@ -1,4 +1,4 @@
-package com.optimissa.readCsv;
+package com.optimissa.readcsv;
 
 import com.opencsv.bean.CsvBindByPosition;
 
